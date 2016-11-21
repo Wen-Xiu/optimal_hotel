@@ -1,0 +1,3 @@
+hotel_information = [{:total_price => 0, :hotel_name => 'Lakewood', :rate => 1},
+                          {:total_price => 0, :hotel_name => 'Bridgewood', :rate =>2},
+                          {:total_price => 0, :hotel_name => 'Ridgewood', :rate=>3}]

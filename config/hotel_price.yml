@@ -1,0 +1,20 @@
+Regular:
+  weekday:
+    Lakewood: 110
+    Bridgewood: 160
+    Ridgewood: 220
+  weekend:
+    Lakewood: 90
+    Bridgewood: 60
+    Ridgewood: 150
+Rewards:
+  weekday:
+    Lakewood: 90
+    Bridgewood: 110
+    Ridgewood: 100
+  weekend:
+    Lakewood: 80
+    Bridgewood: 50
+    Ridgewood: 40
+
+
